@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Angular Notes.md",
+                "file": "Work/Swift/Release.md",
                 "mode": "preview",
                 "source": false
               }
@@ -88,7 +88,9 @@
         "state": {
           "type": "all-properties",
           "state": {
-            "sortOrder": "frequency"
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
           }
         }
       }
@@ -105,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Angular/Angular Notes.md",
+            "file": "Work/Swift/Release.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Angular/Angular Notes.md",
+            "file": "Work/Swift/Release.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -134,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Angular/Angular Notes.md"
+            "file": "Work/Swift/Release.md"
           }
         }
       }
@@ -143,6 +145,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -153,6 +156,15 @@
   },
   "active": "0540055aa12a5b65",
   "lastOpenFiles": [
+    "Work/Swift/Hotfix.md",
+    "Work/Swift/Release.md",
+    "Excalidraw/transtrack-system.excalidraw.md",
+    "Angular/Angular Notes.md",
+    "Excalidraw/rtms-service-architecture.excalidraw.md",
+    "Excalidraw/rcc-architecture.excalidraw.md",
+    "Excalidraw/e-jobpack-software-architecture.excalidraw.md",
+    "Angular/Angular Services Get Set.md",
+    "Software Tools/VS Code.md",
     "Personal/FYP.md",
     "Git/Git Command.md",
     "Markdown Cheat Sheet.md",
@@ -160,29 +172,20 @@
     "Work/IIS/Configuration.md",
     "Work/IIS",
     "Windows/Services.md",
-    "Software Tools/VS Code.md",
     "School/CSC510/Chapter 1.md",
     "React/Getting Started.md",
     "Linux/Linux User.md",
     "Linux/Kali Linux GUI.md",
     "Git/Git Conventional.md",
     "Dotnet/CS Notes.md",
-    "Angular/Angular Notes.md",
     "School/CSC510",
     "School",
-    "Angular/Angular Services Get Set.md",
     "Angular/integrate table cdkdragdrop.md",
     "React/Introduction.md",
     "Documentation/WIM/ANPR IPC.md",
     "React/Tools.md",
     "Angular/Angular.md",
-    "Git/Git.md",
     "Context/spacesLastSync 2.log",
-    "Windows/Windows.md",
-    "Dotnet/Dotnet.md",
-    "React/React Native Notes.md",
-    "Work/Work.md",
-    "Documentation/Documentation.md",
     "Excalidraw/Scripts/Downloaded/Slideshow.svg",
     "Context/spacesLastSync.log"
   ]

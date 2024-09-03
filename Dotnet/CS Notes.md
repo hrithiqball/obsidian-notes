@@ -19,11 +19,3 @@ static void Main
 ```cs
 public string Name {get;set;} = string.Empty;
 ```
-
-```bash
-docker logs
-```
-
-```ps
-docker logs
-```
