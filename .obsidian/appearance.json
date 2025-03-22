@@ -1,0 +1,11 @@
+{
+  "accentColor": "#5a7daf",
+  "cssTheme": "Things",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "",
+  "textFontFamily": "JetBrains Mono",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "custom"
+  ]
+}
