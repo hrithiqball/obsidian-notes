@@ -1,7 +1,0 @@
-{
-  "font": "none",
-  "processed_font": "MotoGPDisplay-Bold.ttf",
-  "force_mode": false,
-  "custom_css_mode": true,
-  "custom_css": ":root {\n\t\t--font-default: MotoGPDisplay-Bold;\n\t\t--default-font: MotoGPDisplay-Bold;\n\t\t--font-family-editor: MotoGPDisplay-Bold;\n\t\t--font-monospace-default: MotoGPDisplay-Bold,\n\t\t--font-interface-override: MotoGPDisplay-Bold,\n\t\t--font-text-override: MotoGPDisplay-Bold,\n\t\t--font-monospace-override: MotoGPDisplay-Bold,\t\n\t}\n\t"
-}
