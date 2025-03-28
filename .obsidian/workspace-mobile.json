@@ -11,14 +11,14 @@
             "id": "1398db959df9a099",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/dataview/manifest.json",
-                "bFile": ".obsidian/plugins/dataview/manifest.json",
-                "aRef": ""
+                "file": "Linux/Linux User.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: manifest.json"
+              "icon": "lucide-file",
+              "title": "Linux User"
             }
           }
         ]
@@ -37,7 +37,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -112,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Linux/Linux User.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,13 +179,15 @@
   },
   "active": "1398db959df9a099",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Linux/Linux User.md",
+    "Untitled",
     "Angular/Angular Notes.md",
     "Angular/Angular Services Get Set.md",
     "Angular/integrate table cdkdragdrop.md",
     "Dotnet/CS Notes.md",
     "Git/Git Command.md",
     "Git/Git Conventional.md",
-    "Linux/Linux User.md",
     "Linux/GPU.md",
     "Linux/CLI.md",
     "Linux/Bash.md",
@@ -213,7 +216,6 @@
     "Linux",
     "React",
     "Windows",
-    "Excalidraw",
-    "Work/Swift"
+    "Excalidraw"
   ]
 }
