@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "f7d442ef25ad5fd2",
+    "id": "eebe4190019c3d32",
     "type": "split",
     "children": [
       {
-        "id": "ec2edaae6a53ec4f",
+        "id": "97993ebf94ccb54f",
         "type": "tabs",
         "children": [
           {
-            "id": "0540055aa12a5b65",
+            "id": "1398db959df9a099",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Git/Git Command.md",
-                "mode": "preview",
-                "source": false
-              }
+                "aFile": ".obsidian/plugins/dataview/manifest.json",
+                "bFile": ".obsidian/plugins/dataview/manifest.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: manifest.json"
             }
           }
         ]
@@ -25,21 +27,24 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f0fbabf887ffab9d",
+    "id": "c769f83097c94f0b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3732d1cedcc20303",
+        "id": "3a1ac96aab7cdfbc",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
-          }
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
-        "id": "8345582f1da2c88c",
+        "id": "4bde067afa21e012",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,40 +55,38 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
-        "id": "0bd4c5aa3d4109c9",
+        "id": "e83494c77cf4c6ba",
         "type": "leaf",
         "state": {
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
-          }
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
-        "id": "f454fbacea0075d8",
+        "id": "8392cc694259943b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       },
       {
-        "id": "74a5a9ee712a8a37",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical"
-          }
-        }
-      },
-      {
-        "id": "40d7883656f17a9f",
+        "id": "9160828d53382639",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -91,23 +94,24 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "7f20f634e31b6f7d",
+    "id": "c2492477803ed2d7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "880cbdce568965bd",
+        "id": "c25556ac4b29e1b6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Git/Git Command.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,78 +119,101 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
-        "id": "227b040d956af1aa",
+        "id": "70d2c8a1703e1682",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Git/Git Command.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
-        "id": "9d17189968ff8a44",
+        "id": "7d585c212a1a201d",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Git/Git Command.md"
-          }
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "14e8845863c002d1",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
-    "currentTab": 2
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0540055aa12a5b65",
+  "active": "1398db959df9a099",
   "lastOpenFiles": [
+    "Angular/Angular Notes.md",
+    "Angular/Angular Services Get Set.md",
+    "Angular/integrate table cdkdragdrop.md",
+    "Dotnet/CS Notes.md",
+    "Git/Git Command.md",
+    "Git/Git Conventional.md",
     "Linux/Linux User.md",
     "Linux/GPU.md",
+    "Linux/CLI.md",
+    "Linux/Bash.md",
+    "Linux/Kali Linux GUI.md",
+    "Personal/FYP.md",
+    "React/Introduction.md",
+    "React/Getting Started.md",
+    "React/Tools.md",
     "Work/Swift/Release.md",
     "Work/Swift/Hotfix.md",
-    "Excalidraw/transtrack-system.excalidraw.md",
-    "Angular/Angular Notes.md",
-    "Excalidraw/rtms-service-architecture.excalidraw.md",
-    "Excalidraw/rcc-architecture.excalidraw.md",
-    "Excalidraw/e-jobpack-software-architecture.excalidraw.md",
-    "Angular/Angular Services Get Set.md",
-    "Software Tools/VS Code.md",
-    "Personal/FYP.md",
-    "Git/Git Command.md",
-    "Markdown Cheat Sheet.md",
-    "Work/Project/RTMS.md",
-    "Work/IIS/Configuration.md",
-    "Work/IIS",
     "Windows/Services.md",
-    "School/CSC510/Chapter 1.md",
-    "React/Getting Started.md",
-    "Linux/Kali Linux GUI.md",
-    "Git/Git Conventional.md",
-    "Dotnet/CS Notes.md",
-    "School/CSC510",
-    "School",
-    "Angular/integrate table cdkdragdrop.md",
-    "React/Introduction.md",
-    "Documentation/WIM/ANPR IPC.md",
-    "React/Tools.md",
-    "Context/spacesLastSync 2.log",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Context/spacesLastSync.log"
+    "Work/IIS/Configuration.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2025-03-29.md",
+    "Excalidraw/e-jobpack-software-architecture.excalidraw.md",
+    "Excalidraw/rtms-service-architecture.excalidraw.md",
+    "Excalidraw/transtrack-system.excalidraw.md",
+    "Excalidraw/rcc-architecture.excalidraw.md",
+    "Markdown Cheat Sheet.md",
+    "Excalidraw/it-icons.excalidrawlib",
+    "Personal",
+    "Git",
+    "Dotnet",
+    "Angular",
+    "Linux",
+    "React",
+    "Windows",
+    "Excalidraw",
+    "Work/Swift"
   ]
 }
